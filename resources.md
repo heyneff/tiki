@@ -15,3 +15,9 @@
 * [Tiki King](http://www.tikiking.com/)
 * [Tiki Val's Closet](http://www.tikivalscloset.com/)
 * [Viva Dulce Marina](https://www.etsy.com/shop/VivaDulceMarina)
+## Web Communities
+* [Reddit r/Tiki](https://www.reddit.com/r/Tiki/)
+* [Trader Sam's Mug Trading](https://www.facebook.com/groups/1621478511405443/?ref=group_browse)
+* [Tiki Collectors](https://www.facebook.com/groups/466693903506659/?ref=group_browse)
+* Ooga Mooga
+* Critiki
