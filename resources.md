@@ -1,7 +1,7 @@
-# Resources
+# Tiki Resources
 ## Gatherings, United States
 * [Chicago area tiki tour (Chicago, IL)](http://fraternalorderofmoai.org/events/catt/)
-* [Mojave Oasis (Mojave Desert, CA](http://mojaveoasis.com/)
+* [Mojave Oasis (Mojave Desert, CA)](http://mojaveoasis.com/)
 * [Ohana: Luau by the Sea](http://www.fraternalorderofmoai.org/ohana/)
 * [The Hukilau (Fort Lauderdale, FL)](https://www.thehukilau.com/)
 * [Tiki Caliente (Palm Springs, CA)](https://www.tiki-caliente.com/)
@@ -17,7 +17,21 @@
 * [Viva Dulce Marina](https://www.etsy.com/shop/VivaDulceMarina)
 ## Web Communities
 * [Reddit r/Tiki](https://www.reddit.com/r/Tiki/)
+* Critiki
+* [Tiki Central](http://www.tikiroom.com/tikicentral/bb/)
+## Unclassified
+* http://beachbumberry.com/
+* [Tiki Bar Name Generator](https://www.hanttula.com/tiki-bar-name-generator/)
+## Tiki Blogs & Podcasts
+* [Zen Tiki Lounge](https://www.zentikilounge.com/) The longest running tiki podcast
+* [Inside The Desert Oasis Room](http://polynesianpop.podomatic.com/) Podcast
+* [Modern Tiki Lounge](http://www.moderntikilounge.com/) Blog
+* [Atomic Grog Blog](http://www.slammie.com/atomicgrog/blog/) Blog
+* [Tiki With Ray](http://http//www.tikiwithray.com/) Blog
+* [The Meek Tiki](https://themeektiki.wordpress.com/) Blog
+## Mugs
 * [Trader Sam's Mug Trading](https://www.facebook.com/groups/1621478511405443/?ref=group_browse)
 * [Tiki Collectors](https://www.facebook.com/groups/466693903506659/?ref=group_browse)
-* Ooga Mooga
-* Critiki
+* [Ooga Mooga](http://www.ooga-mooga.com/)
+* [Tiki Farm](http://www.tikifarm.com/) Mug producer
+* [Eekum Bookum](https://www.facebook.com/EekumBookumTikiMugs/) Mug producer
