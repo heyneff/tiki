@@ -37,7 +37,10 @@
 * [Tiki Bar Name Generator](https://www.hanttula.com/tiki-bar-name-generator/)
 ## Television
 ### The Brady Bunch
-* S4 E1 [Hawaii Bound](https://www.imdb.com/title/tt0531098/?ref_=ttep_ep1)
-* S4 E2 [Pass the Tabu](https://www.imdb.com/title/tt0531119/?ref_=ttep_ep2) [📺Hulu](https://www.hulu.com/watch/d943d718-35ad-464d-bab5-64419db027fa)
-* S4 E3 [The Tiki Caves](https://www.imdb.com/title/tt0531151/?ref_=ttep_ep3) [📺Hulu](https://www.hulu.com/watch/07a5a000-5495-43e2-ba93-d653cc8eba84)
+* S4 E1 [Hawaii Bound](https://www.imdb.com/title/tt0531098/?ref_=ttep_ep1)  
+The Bradys go on vacation to Hawaii. While there, Peter and Bobby stumble upon a ancient Tiki idol that some locals believe brings bad luck to the person who is touching it.
+* S4 E2 [Pass the Tabu](https://www.imdb.com/title/tt0531119/?ref_=ttep_ep2) [📺Hulu](https://www.hulu.com/watch/d943d718-35ad-464d-bab5-64419db027fa)  
+After bad luck continues to befall the family, the Brady boys set out to learn about the ancient tiki. They learn the tiki is tabu and must be discarded at an ancient burial ground.
+* S4 E3 [The Tiki Caves](https://www.imdb.com/title/tt0531151/?ref_=ttep_ep3) [📺Hulu](https://www.hulu.com/watch/07a5a000-5495-43e2-ba93-d653cc8eba84)  
+The Brady boys arrive at the cave to return the idol to the burial site, only to be held prisoners by an angry archaeologist who lays claim to the cave and believes that they stole the idol.
 ## Movies
