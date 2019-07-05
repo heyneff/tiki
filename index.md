@@ -11,11 +11,21 @@
 * [Tiki With Ray](http://http//www.tikiwithray.com/) Blog
 * [The Meek Tiki](https://themeektiki.wordpress.com/) Blog
 ## Mugs
-* [Trader Sam's Mug Trading](https://www.facebook.com/groups/1621478511405443/?ref=group_browse)
-* [Tiki Collectors](https://www.facebook.com/groups/466693903506659/?ref=group_browse)
+### Collecting & Trading
+* [Trader Sam's Mug Trading (Facebook group)](https://www.facebook.com/groups/1621478511405443/?ref=group_browse)
+* [Tiki Collectors (Facebook group)](https://www.facebook.com/groups/466693903506659/?ref=group_browse)
 * [Ooga Mooga](http://www.ooga-mooga.com/)
+### Artists & Producers
 * [Tiki Farm](http://www.tikifarm.com/) Mug producer
-* [Eekum Bookum](https://www.facebook.com/EekumBookumTikiMugs/) Mug producer
+* Eekum Bookum
+  * [Website](https://www.eekumbookum.com/)
+  * [Facebook](https://www.facebook.com/EekumBookumTikiMugs/)
+  * [Instagram (John Mulder, Head Tiki Mug Maker)](https://instagram.com/mulder142)Mug producer
+* Doug Horne
+  * [Instagram](https://instagram.com/doug_horne_art)
+  * [Etsy](https://www.etsy.com/shop/DougHorneArt)
+* Tiki Tony
+* TikiDiablo
 ## Gatherings, United States
 * [Chicago area tiki tour (Chicago, IL)](http://fraternalorderofmoai.org/events/catt/)
 * [Mojave Oasis (Mojave Desert, CA)](http://mojaveoasis.com/)
@@ -44,3 +54,4 @@ After bad luck continues to befall the family, the Brady boys set out to learn a
 #### S4 E3 [The Tiki Caves](https://www.imdb.com/title/tt0531151/?ref_=ttep_ep3) [📺Hulu](https://www.hulu.com/watch/07a5a000-5495-43e2-ba93-d653cc8eba84)  
 The Brady boys arrive at the cave to return the idol to the burial site, only to be held prisoners by an angry archaeologist who lays claim to the cave and believes that they stole the idol.
 ## Movies
+* Moana
