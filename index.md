@@ -1,31 +1,39 @@
 # Tiki Resources
-## Web Communities
-* [Reddit r/Tiki](https://www.reddit.com/r/Tiki/)
+## Tiki Web Communities
 * [Critiki](https://critiki.com/)
+* [Reddit r/Tiki](https://www.reddit.com/r/Tiki/)
 * [Tiki Central](http://www.tikiroom.com/tikicentral/bb/)
 ## Tiki Blogs & Podcasts
-* [Zen Tiki Lounge](https://www.zentikilounge.com/) The longest running tiki podcast
-* [Inside The Desert Oasis Room](http://polynesianpop.podomatic.com/) Podcast
-* [Modern Tiki Lounge](http://www.moderntikilounge.com/) Blog
-* [Atomic Grog Blog](http://www.slammie.com/atomicgrog/blog/) Blog
-* [Tiki With Ray](http://http//www.tikiwithray.com/) Blog
-* [The Meek Tiki](https://themeektiki.wordpress.com/) Blog
-## Mugs
+* [Atomic Grog Blog](http://www.slammie.com/atomicgrog/blog/), Blog
+* [Inside The Desert Oasis Room](http://polynesianpop.podomatic.com/), Podcast
+* [The Meek Tiki](https://themeektiki.wordpress.com/), Blog
+* [Modern Tiki Lounge](http://www.moderntikilounge.com/), Blog
+* [Tiki With Ray](http://http//www.tikiwithray.com/), Blog
+* [Zen Tiki Lounge](https://www.zentikilounge.com/), Longest running tiki podcast
+## Tiki Mugs
 ### Collecting & Trading
-* [Trader Sam's Mug Trading (Facebook group)](https://www.facebook.com/groups/1621478511405443/?ref=group_browse)
-* [Tiki Collectors (Facebook group)](https://www.facebook.com/groups/466693903506659/?ref=group_browse)
 * [Ooga Mooga](http://www.ooga-mooga.com/)
+* [Tiki Collectors (Facebook group)](https://www.facebook.com/groups/466693903506659/)
+* [Trader Sam's Mug Trading (Facebook group)](https://www.facebook.com/groups/1621478511405443/)
 ### Artists & Producers
-* [Tiki Farm](http://www.tikifarm.com/) Mug producer
-* Eekum Bookum
+* Big Toe a.k.a. Tom Laura, Artist
+  * [Instagram](https://instagram.com/bigtoeart)
+  * [Facebook](https://www.facebook.com/BigToeProductions/)
+  * [Shop](https://www.workingclasspublishing.com/gratisfaction.html)
+* Eekum Bookum, artist and producer
   * [Website](https://www.eekumbookum.com/)
   * [Facebook](https://www.facebook.com/EekumBookumTikiMugs/)
-  * [Instagram (John Mulder, Head Tiki Mug Maker)](https://instagram.com/mulder142)Mug producer
-* Doug Horne
+  * [Instagram (John Mulder, Head Tiki Mug Maker)](https://instagram.com/mulder142)
+* Doug Horne, Artist
   * [Instagram](https://instagram.com/doug_horne_art)
-  * [Etsy](https://www.etsy.com/shop/DougHorneArt)
-* Tiki Tony
-* TikiDiablo
+  * [Etsy shop](https://www.etsy.com/shop/DougHorneArt)
+* [Tiki Farm](http://www.tikifarm.com/) Mug producer
+* Tiki Tony, Artist and producer
+  * [Instagram](https://instagram.com/tikitony)
+  * [Website & shop](http://www.tikitony.com/)
+* TikiDiablo, Artist and producer
+  * [Instagram](https://instagram.com/tikidiablo)
+  * [Website & shop](https://tikidiablo.bigcartel.com/)
 ## Gatherings, United States
 * [Chicago area tiki tour (Chicago, IL)](http://fraternalorderofmoai.org/events/catt/)
 * [Mojave Oasis (Mojave Desert, CA)](http://mojaveoasis.com/)
