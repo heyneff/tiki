@@ -19,7 +19,7 @@
 * Big Toe a.k.a. Tom Laura, Artist
   * [Instagram](https://instagram.com/bigtoeart)
   * [Facebook](https://www.facebook.com/BigToeProductions/)
-  * [Shop](https://www.workingclasspublishing.com/gratisfaction.html)
+  * [Etsy shop](https://www.etsy.com/shop/BigToeArt)
 * Eekum Bookum, artist and producer
   * [Website](https://www.eekumbookum.com/)
   * [Facebook](https://www.facebook.com/EekumBookumTikiMugs/)
