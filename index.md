@@ -15,7 +15,7 @@
 * [Ooga Mooga](http://www.ooga-mooga.com/)
 * [Tiki Collectors (Facebook group)](https://www.facebook.com/groups/466693903506659/)
 * [Trader Sam's Mug Trading (Facebook group)](https://www.facebook.com/groups/1621478511405443/)
-### Artists & Producers
+### Artists & Manufacturers
 * Big Toe a.k.a. Tom Laura, Artist
   * [Instagram](https://instagram.com/bigtoeart)
   * [Facebook](https://www.facebook.com/BigToeProductions/)
@@ -27,7 +27,12 @@
 * Doug Horne, Artist
   * [Instagram](https://instagram.com/doug_horne_art)
   * [Etsy shop](https://www.etsy.com/shop/DougHorneArt)
-* [Tiki Farm](http://www.tikifarm.com/) Mug producer
+* Munktiki, Artist
+  * [Website & shop](https://www.munktiki.com/)
+  * [Instagram](http://instagram.com/munktiki)
+* Tiki Farm, Manufacturer
+  * [Website & shop](http://www.tikifarm.com/)
+  * [Facebook](https://www.facebook.com/officialtikifarm/)
 * Tiki Tony, Artist and producer
   * [Instagram](https://instagram.com/tikitony)
   * [Website & shop](http://www.tikitony.com/)
