@@ -30,6 +30,9 @@
 * Munktiki, Artist
   * [Website & shop](https://www.munktiki.com/)
   * [Instagram](http://instagram.com/munktiki)
+* Squid a.k.a. Dave Cohen
+  * [Website](http://www.squidart.com/)
+  * [Facebook](https://m.facebook.com/Dave-Cohen-AKA-Squid-241293909315244/)
 * Tiki Farm, Manufacturer
   * [Website & shop](http://www.tikifarm.com/)
   * [Facebook](https://www.facebook.com/officialtikifarm/)
