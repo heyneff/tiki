@@ -20,6 +20,9 @@
   * [Instagram](https://instagram.com/bigtoeart)
   * [Facebook](https://www.facebook.com/BigToeProductions/)
   * [Etsy shop](https://www.etsy.com/shop/BigToeArt)
+* B-Rex a.k.a. Brian Rechenmacher
+  * [Website & shop](http://www.brianrechenmacher.com/)
+  * [Facebook](https://www.facebook.com/brexArt/)
 * Eekum Bookum, artist and producer
   * [Website](https://www.eekumbookum.com/)
   * [Facebook](https://www.facebook.com/EekumBookumTikiMugs/)
@@ -71,3 +74,8 @@ After bad luck continues to befall the family, the Brady boys set out to learn a
 The Brady boys arrive at the cave to return the idol to the burial site, only to be held prisoners by an angry archaeologist who lays claim to the cave and believes that they stole the idol.
 ## Movies
 * Moana
+## Tiki Bars
+### California
+* Trader Sam's Enchanted Tiki Bar, Anaheim
+  * [Facebook](https://m.facebook.com/search/top/?q=bookem%20tiki&ref=content_filter&tsid=0.36614795795031163&source=typeahead#!/EnchantedTikiBar/)
+  * [Instagram]()
