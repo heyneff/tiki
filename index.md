@@ -78,4 +78,4 @@ The Brady boys arrive at the cave to return the idol to the burial site, only to
 ### California
 * Trader Sam's Enchanted Tiki Bar, Anaheim
   * [Facebook](https://m.facebook.com/search/top/?q=bookem%20tiki&ref=content_filter&tsid=0.36614795795031163&source=typeahead#!/EnchantedTikiBar/)
-  * [Instagram]()
+  * [Instagram](https://instagram.com/enchantedtikibar)
