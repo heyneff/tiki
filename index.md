@@ -44,7 +44,7 @@
 * Tiki Tony, Artist and producer
   * [Instagram](https://instagram.com/tikitony)
   * [Website & shop](http://www.tikitony.com/)
-* TikiDiablo, Artist and producer
+* TikiDiablo a.k.a. Danny Gallardo, Artist and producer
   * [Instagram](https://instagram.com/tikidiablo)
   * [Website & shop](https://tikidiablo.bigcartel.com/)
 ## Gatherings, United States
@@ -77,7 +77,22 @@ The Brady boys arrive at the cave to return the idol to the burial site, only to
 ## Movies
 * Moana
 ## Tiki Bars
-### California
+### California, Northern
+* Forbidden Island, Alameda
+* Hobson's Choice, San Francisco
+* Kona Room, Oakland
+* Last Rites, San Francisco
+* Li Po Cocktail Lounge, San Francisco
+* Pagan Idol, San Francisco
+* Smuggler's Cove, San Francisco
+* Tonga Room, San Francisco
+* Trader Vic's, Emeryville
+* Trad'r Sam's, San Francisco
+* Zombie Village, San Francisco
+### California, Southern
+* Tiki Ti, 
+* Tonga Hut, 
 * Trader Sam's Enchanted Tiki Bar, Anaheim
   * [Facebook](https://m.facebook.com/search/top/?q=bookem%20tiki&ref=content_filter&tsid=0.36614795795031163&source=typeahead#!/EnchantedTikiBar/)
   * [Instagram](https://instagram.com/enchantedtikibar)
+* VenTiki, Ventura
