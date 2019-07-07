@@ -23,6 +23,8 @@
 * B-Rex a.k.a. Brian Rechenmacher
   * [Website & shop](http://www.brianrechenmacher.com/)
   * [Facebook](https://www.facebook.com/brexArt/)
+* CrazyAL, Artist
+  * [Website & shop](http://tikimania.com/)
 * Eekum Bookum, artist and producer
   * [Website](https://www.eekumbookum.com/)
   * [Facebook](https://www.facebook.com/EekumBookumTikiMugs/)
